@@ -41,7 +41,6 @@
 .abstract-text{
   text-align: center;
   background: rgba(148, 197, 170, 0.2);
-  padding: 20px;
   width: 100%;
   overflow: hidden;
 }
@@ -127,7 +126,6 @@ color: white;
 
 .text {
 color: white;
-padding: 1vw;
 position: absolute;
 bottom: 0;
 width: 100%;
@@ -327,5 +325,6 @@ footer {
   width: 100%;
   bottom: 0;
   overflow: hidden;
-  padding: 16px;
+  padding-top: 16px;
+  padding-bottom: 16px;
 }
